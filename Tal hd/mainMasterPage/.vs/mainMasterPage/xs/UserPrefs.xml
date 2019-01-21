@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{DECA5A7C-D4BF-4F8E-9D4B-BDE851AC5781}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="mainMasterPage/Register.aspx">
+    <Files>
+      <File FileName="mainMasterPage/אר2.aspx" Line="1" Column="1" />
+      <File FileName="mainMasterPage/אר2.aspx.cs" Line="1" Column="1" />
+      <File FileName="mainMasterPage/Register.aspx.cs" Line="9" Column="7" />
+      <File FileName="mainMasterPage/Register.aspx" Line="27" Column="46" />
+      <File FileName="mainMasterPage/CSSTOALL.css" Line="2" Column="2" />
+      <File FileName="mainMasterPage/master.master" Line="1" Column="1" />
+      <File FileName="mainMasterPage/Register2.js" Line="67" Column="17" />
+      <File FileName="mainMasterPage/Register3.js" Line="90" Column="10" />
+      <File FileName="mainMasterPage/page2.aspx" Line="1" Column="1" />
+      <File FileName="mainMasterPage/Register4.js" Line="71" Column="14" />
+      <File FileName="mainMasterPage/Default.aspx" Line="1" Column="1" />
+      <File FileName="mainMasterPage/gallery.aspx" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.mainMasterPage.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.mainMasterPage PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
