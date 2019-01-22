@@ -1,0 +1,88 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebSite.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>אתר מסטר</title>
+    <script type="text/javascript">
+        var myVar = setInterval(function () { myTimer() }, 200);
+        function myTimer(){
+            var d = new Date()
+            var t = d.toLocaleTimeString();
+            document.getElementById("myTime").innerHTML = t;
+        }
+    </script>
+    <style type="text/css">
+
+        .mastertable{
+             border:  2px solid black;
+             margin: 2px;
+             
+             
+        }
+        .masterlogo{
+              display: block;
+              margin-left: auto;
+              margin-right: auto;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body style="background-color:aquamarine">
+   <table align="center" id ="container" cellpadding ="5" cellspacing =" 0"  class="mastertable">
+       <tr style="height:70px;" class="mastertable" id="top2">
+           <td style ="width:300px;" class="mastertable">
+               <h2 style="text-align:center">
+                   [<a href ="Register.aspx">הרשמה</a>]   
+                   
+               </h2>
+           </td>
+           <td style="width:800px; background-color:white;" class="mastertable" class="mastertable" >
+                <img height="70px" src="pics/Untitled.png" class="masterlogo" />
+           </td>
+           <td style =" width: 300px; text-align:center;" class="mastertable" >
+               <h2 id ="myTime"></h2>
+           </td>
+       </tr>
+       <tr style="height:30px;" class="mastertable">
+           <td colspan ="3" style="text-align:center;" class="mastertable">
+               [<a href ="cars master.aspx">מכוניות</a>] &nbsp &nbsp&nbsp&nbsp
+               [<a href ="hanukiya master.aspx">חנוכיה</a>] &nbsp &nbsp&nbsp&nbsp
+               [<a href ="spinner master.aspx">סביבון</a>]&nbsp &nbsp&nbsp&nbsp
+               [<a href ="animalsMaster.aspx">בעלי חיים</a>]&nbsp &nbsp&nbsp&nbsp
+               [<a href ="schedule master.aspx">מערכת שעות</a>]&nbsp &nbsp&nbsp&nbsp
+               [<a href ="gallery master.aspx">גלרית תמונות</a>]&nbsp &nbsp&nbsp&nbsp
+               [<a href ="Default.aspx">דף הבית</a>]
+
+                  
+
+           </td>
+       </tr>
+       <tr style ="height:380px;" class="mastertable">
+           <td colspan="3" valgin="top" class="mastertable">
+                <div >
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        
+                    </asp:ContentPlaceHolder>
+                </div>
+                
+           </td>
+
+       </tr>
+       <tr class="mastertable">
+           <td colspan="3" style="text-align:center;" class="mastertable">
+                
+                   נכתב על ידי <a href ="mailto:toahr@lironfine.com" target="_blank">טהר פיין</a>
+               
+           </td>
+       </tr>
+   </table>
+
+            
+        
+  
+</body>
+</html>
