@@ -1,0 +1,142 @@
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\mainMasterPage.dll.config
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\mainMasterPage.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\mainMasterPage.pdb
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\csc.exe
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\csc.exe.config
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\csc.rsp
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\csi.exe
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\csi.exe.config
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\csi.rsp
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.AppContext.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.Console.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.IO.Compression.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.IO.Pipes.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.Security.Claims.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.ValueTuple.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\vbc.exe
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\vbc.exe.config
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\vbc.rsp
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\VBCSCompiler.exe
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\Antlr3.Runtime.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\Newtonsoft.Json.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\System.Web.Optimization.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\WebGrease.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\System.Web.Optimization.xml
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\Newtonsoft.Json.xml
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\Antlr3.Runtime.pdb
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\obj\Debug\mainMasterPage.csprojAssemblyReference.cache
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\obj\Debug\mainMasterPage.csproj.CoreCompileInputs.cache
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\obj\Debug\mainMasterPage.csproj.CopyComplete
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\obj\Debug\mainMasterPage.dll
+C:\Users\דורית\source\repos\mainMasterPage\mainMasterPage\obj\Debug\mainMasterPage.pdb
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\mainMasterPage.dll.config
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\mainMasterPage.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\mainMasterPage.pdb
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\csc.exe
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\csc.exe.config
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\csc.rsp
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\csi.exe
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\csi.exe.config
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\csi.rsp
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.AppContext.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.Console.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.IO.Compression.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.IO.Pipes.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.Security.Claims.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.ValueTuple.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\vbc.exe
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\vbc.exe.config
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\vbc.rsp
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\VBCSCompiler.exe
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\Antlr3.Runtime.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\Newtonsoft.Json.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\System.Web.Optimization.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\WebGrease.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\System.Web.Optimization.xml
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\Newtonsoft.Json.xml
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\Antlr3.Runtime.pdb
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\obj\Debug\mainMasterPage.csprojAssemblyReference.cache
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\obj\Debug\mainMasterPage.csproj.CoreCompileInputs.cache
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\obj\Debug\mainMasterPage.csproj.CopyComplete
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\obj\Debug\mainMasterPage.dll
+C:\Users\דורית\Documents\code projects\web stuff\mainMasterPage\mainMasterPage\obj\Debug\mainMasterPage.pdb
