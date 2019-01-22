@@ -1,0 +1,105 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="mainMasterPage.Main" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<script>
+    setInterval("myTimer()", 0);
+    function myTimer()
+    {
+    var d = new Date();
+    var t = d.toLocaleTimeString();
+    document.getElementById("myTime").innerHTML = t;
+    }
+</script>
+<style>
+    th,td,table{
+        border-width:3px;
+        border-style:double;
+        border-color:black;
+
+    }
+    th{
+        font-size:24px;
+        font-family:'Times New Roman';
+    }
+
+    tr.style{
+        height:50px;
+    }
+    table{
+        width:100%;
+        min-height:300px;
+    }
+    td.links{
+        text-align:center;
+        height:50px;
+    }
+    body{
+        background-color: antiquewhite;
+        direction:rtl;
+    }
+    h1{
+        text-align: center;
+        background-color: wheat;
+        font-style:italic;
+    }
+    h2{
+        background-color: bisque;
+        font-style:italic;
+    }
+    img{
+        align-self: center;
+        height:auto;
+        max-width: 400px;
+    }
+    ul{
+        type:circle;
+    }
+    p{
+        
+        font-style: inherit;
+        width: 100%;
+    }
+
+</style>
+<body>
+        
+        <table>
+            <tr>
+                <th colspan="3">האתר של חן פרח</th>
+                <a name = "top">
+            </tr>
+            <tr class="links">
+                <td class="links">
+                    <h3 id = "myTime"> </h3>
+                </td>
+                <td class="links">
+                    [<a href="http://localhost:49956/html%20project/my%20animal%20website/the%20site%20code%20(html)/index">animals page</a>]
+                    [<a href="http://localhost:49956/html%20project/my%20animal%20website/the%20site%20code%20(html)/tables/table">tables</a>]
+                     [<a href="http://localhost:49956/html%20project/CarPrj/index">car page</a>]
+                    [<a href="http://localhost:49956/hanukiyaPrj/han">חנוכיה</a>]
+                    [<a href="http://localhost:49956/spinnerPrj/sp">סביבון</a>]
+                    [<a href="http://localhost:49956/gallery2">גלריה</a>]
+                    [<a href="myFinalForm.aspx">טופס</a>]
+                </td>
+                <td class="links"></td>
+            </tr>
+            <tr>
+
+                <td colspan="3">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td colspan ="3" class="footer">נוצר על ידי חן פרח</td>
+            </tr>
+        </table>
+</body>
+</html>

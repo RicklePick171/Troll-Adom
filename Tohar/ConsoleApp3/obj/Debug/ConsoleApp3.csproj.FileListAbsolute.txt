@@ -1,7 +1,0 @@
-C:\Users\טהר פיין\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
-C:\Users\טהר פיין\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
-C:\Users\טהר פיין\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
-C:\Users\טהר פיין\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
-C:\Users\טהר פיין\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
-C:\Users\טהר פיין\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
-C:\Users\טהר פיין\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

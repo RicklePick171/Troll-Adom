@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>spinner</title>
+</head>
+<style>
+    .center{
+        margin-left: 100%;
+        margin-right: 100%;
+    }
+    img{
+        margin-top: 75px;
+        text-align:center;
+    }
+</style>
+<script>
+    var s1 = "pics/spinNG.png";
+    var s2 = "pics/spinGH.png";
+    var s3 = "pics/spinHP.png";
+    var s4 = "pics/spinPN.png";
+    var i = 0;
+    var str
+
+    function showPic(str){
+        spinner.src = str;
+    }
+    setInterval("start()",500);
+    function start(){
+        var number = i %4;
+        switch (number){
+            case 0: str = s1;
+            break;
+            case 1: str = s2;
+            break;
+            case 2: str = s3;
+            break;
+            case 3: str = s4;
+            break;
+            
+        }
+        i++;
+        showPic(str);
+
+    }
+
+</script>
+<body>
+    <br>
+    <br>
+    <br>
+    <div class="center">
+        <img src = "pics/spinNG.png" name = "spinner" alt = "spinner">
+    </div>
+</body>
+</html>
