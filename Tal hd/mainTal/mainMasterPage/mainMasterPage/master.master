@@ -111,7 +111,7 @@
                     [<a href="form.aspx" class="nav">form</a>]
                 </td>
             </tr>
-            <tr style="height:500px">
+            <tr style="height:80%">
                 <td colspan="3" valign="top" align="center">
                     <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
                     </asp:ContentPlaceHolder>

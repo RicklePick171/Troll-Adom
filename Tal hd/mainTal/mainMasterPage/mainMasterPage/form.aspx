@@ -21,8 +21,8 @@
         .formtable2{
             padding:5px;
             text-align:center;
-            height:500px;
-            min-width:200px;
+            height:300px;
+            min-width:600px;
         }
         .form2{
             height:30px;
@@ -65,44 +65,53 @@
                  </td>
              </tr>
              <tr>
-                 <td class="thtd2">
-                        <h5>.1</h5>
+                 <td class="thtd2" style="text-align:center">
+                        <h5>1.</h5>
                   </td>
-               </tr>
-               <tr>
-                 <td class="thtd2">
-                        <h5>.2</h5>
-                 </td>
-                </tr>
-                 <tr>
-                    <td class="thtd2">
-                        <h5>.3</h5>
-                  </td>
-               </tr>
-                <tr>
-                    <td class="thtd2">
-                        <h5>.4</h5>
-                  </td>
-               </tr>
-                <tr>
-                    <td class="thtd2">
-                        <h5>.5</h5>
-                  </td>
-               </tr>
-                <tr>
-                    <td class="thtd2">
-                        <h5>.6</h5>
-                  </td>
-               </tr>
                     <td class="thtd">
                     <input type="radio" name="answer" value = "1" > אדום      <br />
-                    <input type="radio" name="answer" value = "2" > כחול      <br />
-                    <input type="radio" name="answer" value = "3" > ירוק      <br />
-                    <input type="radio" name="answer" value = "4" > צהוב     <br />
-                    <input type="radio" name="answer" value = "5" > לבן       <br />
-                    <input type="radio" name="answer" value = "6" > שחור     <br />
-                </td>
-            </tr>
+                    </td>
+               </tr>
+               <tr>
+                 <td class="thtd2" style="text-align:center">
+                        <h5>2.</h5>
+                 </td>
+                    <td class="thtd">
+                    <input type="radio" name="answer" value = "1" > כחול     <br />
+                    </td>
+                </tr>
+                 <tr>
+                    <td class="thtd2" style="text-align:center">
+                        <h5>3.</h5>
+                  </td>
+                    <td class="thtd">
+                    <input type="radio" name="answer" value = "1" > ירוק      <br />
+                    </td>
+               </tr>
+                <tr>
+                    <td class="thtd2" style="text-align:center">
+                        <h5>4.</h5>
+                  </td>
+                    <td class="thtd">
+                    <input type="radio" name="answer" value = "1" > צהוב      <br />
+                    </td>
+               </tr>
+                <tr>
+                    <td class="thtd2" style="text-align:center">
+                        <h5>5.</h5>
+                  </td>
+                    <td class="thtd">
+                    <input type="radio" name="answer" value = "1" > לבן      <br />
+                    </td>
+               </tr>
+                <tr>
+                    <td class="thtd2" style="text-align:center">
+                        <h5>6.</h5>
+                  </td>
+                    <td class="thtd">
+                    <input type="radio" name="answer" value = "1" > שחור      <br />
+                    </td>
+               </tr>
             <tr>
                 <td colspan="2" class="thtd">
                     <input type="submit" value="          שלח         "/>
