@@ -14,6 +14,8 @@ namespace mainMasterPage
             Application["q2"] = 0;
             Application["q3"] = 0;
             Application["q4"] = 0;
+            Application["q5"] = 0;
+            Application["q6"] = 0;
         }
     }
 }

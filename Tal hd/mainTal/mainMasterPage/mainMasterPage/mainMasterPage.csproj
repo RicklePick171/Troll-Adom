@@ -207,6 +207,12 @@
     <Content Include="form.aspx" />
     <Content Include="Form.js" />
     <Content Include="colorsForm.aspx" />
+    <Content Include="colorsForm\black.png" />
+    <Content Include="colorsForm\blue.jpg" />
+    <Content Include="colorsForm\gray.jpg" />
+    <Content Include="colorsForm\green.jpg" />
+    <Content Include="colorsForm\red.JPG" />
+    <Content Include="colorsForm\yellow.jpg" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
