@@ -26,3 +26,32 @@
 /Users/rexton4wd_MB/Desktop/taba1/mainMasterPage/mainMasterPage/obj/Debug/mainMasterPage.csproj.CopyComplete
 /Users/rexton4wd_MB/Desktop/taba1/mainMasterPage/mainMasterPage/obj/Debug/mainMasterPage.dll
 /Users/rexton4wd_MB/Desktop/taba1/mainMasterPage/mainMasterPage/obj/Debug/mainMasterPage.pdb
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\mainMasterPage.dll.config
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\mainMasterPage.dll
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\mainMasterPage.pdb
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\Newtonsoft.Json.dll
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\System.Net.Http.Formatting.dll
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\System.Web.Helpers.dll
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\System.Web.Http.dll
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\System.Web.Http.WebHost.dll
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\System.Web.Mvc.dll
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\System.Web.Razor.dll
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\System.Web.WebPages.dll
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\System.Web.WebPages.Razor.dll
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\System.Web.Razor.xml
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\System.Web.Helpers.xml
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\System.Web.WebPages.xml
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\System.Web.WebPages.Razor.xml
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\System.Web.Mvc.xml
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\System.Net.Http.Formatting.xml
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\System.Web.Http.xml
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\System.Web.Http.WebHost.xml
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\bin\Newtonsoft.Json.xml
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\obj\Debug\mainMasterPage.csprojAssemblyReference.cache
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\obj\Debug\mainMasterPage.csproj.CoreCompileInputs.cache
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\obj\Debug\mainMasterPage.csproj.CopyComplete
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\obj\Debug\mainMasterPage.dll
+C:\Users\טהר פיין\Documents\GitHub\Troll-Adom\Tal hd\mainTal\mainMasterPage\mainMasterPage\obj\Debug\mainMasterPage.pdb
