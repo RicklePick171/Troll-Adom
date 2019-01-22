@@ -108,7 +108,7 @@
                     [<a href="mainColor.aspx" class="nav">colors</a>]
                     [<a href="timeTable.aspx" class="nav">time table</a>]
                     [<a href="gallery.aspx" class="nav">gallery</a>]
-                    [<a href="form.aspx" class="nav">form</a>]
+                    [<a href="colorsForm.aspx" class="nav">form</a>]
                 </td>
             </tr>
             <tr style="height:80%">

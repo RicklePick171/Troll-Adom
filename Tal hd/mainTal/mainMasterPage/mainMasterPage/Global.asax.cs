@@ -7,11 +7,13 @@ namespace mainMasterPage
 {
     public class Global : HttpApplication
     {
-        protected void Application_Start()
+    void Application_Start(object sender, EventArgs e)
         {
-            AreaRegistration.RegisterAllAreas();
-            GlobalConfiguration.Configure(WebApiConfig.Register);
-            RouteConfig.RegisterRoutes(RouteTable.Routes);
+            Application["counter"] = 0;
+            Application["q1"] = 0;
+            Application["q2"] = 0;
+            Application["q3"] = 0;
+            Application["q4"] = 0;
         }
     }
 }

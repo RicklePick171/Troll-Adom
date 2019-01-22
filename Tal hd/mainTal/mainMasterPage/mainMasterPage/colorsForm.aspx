@@ -1,4 +1,5 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/MasterPg.Master" AutoEventWireup="true" CodeBehind="colorsForm.aspx.cs" Inherits="MasterpgSite.colorsForm" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="master.master" 
+    AutoEventWireup="true" CodeFile="colorsForm.aspx.cs" Inherits="mainMasterPage.colorsForm" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <style>
         .inside{
