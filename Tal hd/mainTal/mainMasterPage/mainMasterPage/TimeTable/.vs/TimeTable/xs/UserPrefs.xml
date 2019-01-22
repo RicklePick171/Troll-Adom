@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{4D88C393-203A-49C0-ABFA-46194833FA1F}|Default">
+  <MonoDevelop.Ide.ItemProperties.TimeTable PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TimeTable/main.html">
+    <Files>
+      <File FileName="TimeTable/main.html" Line="150" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
