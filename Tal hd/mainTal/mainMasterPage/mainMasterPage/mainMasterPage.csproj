@@ -206,13 +206,17 @@
     <Content Include="Register4.js" />
     <Content Include="form.aspx" />
     <Content Include="Form.js" />
-    <Content Include="colorsForm.aspx" />
     <Content Include="colorsForm\black.png" />
     <Content Include="colorsForm\blue.jpg" />
     <Content Include="colorsForm\gray.jpg" />
     <Content Include="colorsForm\green.jpg" />
     <Content Include="colorsForm\red.JPG" />
     <Content Include="colorsForm\yellow.jpg" />
+    <Content Include="tofes.aspx" />
+    <Content Include="tofesPics\blue.PNG" />
+    <Content Include="tofesPics\green.PNG" />
+    <Content Include="tofesPics\red.PNG" />
+    <Content Include="tofesPics\yellow.PNG" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Global.asax.cs">
@@ -241,8 +245,11 @@
     <Compile Include="form.aspx.designer.cs">
       <DependentUpon>form.aspx</DependentUpon>
     </Compile>
-    <Compile Include="colorsForm.aspx.cs">
-      <DependentUpon>colorsForm.aspx</DependentUpon>
+    <Compile Include="tofes.aspx.designer.cs">
+      <DependentUpon>tofes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="tofes.aspx.cs">
+      <DependentUpon>tofes.aspx</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>

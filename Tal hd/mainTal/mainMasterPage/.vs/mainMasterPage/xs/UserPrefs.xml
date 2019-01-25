@@ -1,16 +1,19 @@
 ﻿<Properties StartupConfiguration="{DECA5A7C-D4BF-4F8E-9D4B-BDE851AC5781}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="mainMasterPage/Global.asax">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../../../private/var/folders/ff/l6q023f94h35dc2rnv_kmjq40000gn/T/rexton4wd_MB-temp-aspnet-0/be495ed5/App_Web_b1e9ygc7_2.cs">
     <Files>
       <File FileName="mainMasterPage/אר2.aspx" Line="1" Column="1" />
       <File FileName="mainMasterPage/אר2.aspx.cs" Line="1" Column="1" />
       <File FileName="mainMasterPage/Register.aspx.cs" Line="1" Column="1" />
-      <File FileName="mainMasterPage/Register.aspx" Line="23" Column="27" />
-      <File FileName="mainMasterPage/colorsForm.aspx" Line="2" Column="48" />
-      <File FileName="mainMasterPage/colorsForm.aspx.cs" Line="4" Column="33" />
+      <File FileName="mainMasterPage/Register.aspx" Line="2" Column="93" />
       <File FileName="mainMasterPage/gallery.aspx.cs" Line="1" Column="1" />
       <File FileName="mainMasterPage/gallery.aspx" Line="1" Column="1" />
-      <File FileName="mainMasterPage/Global.asax.cs" Line="1" Column="1" />
-      <File FileName="mainMasterPage/Global.asax" Line="13" Column="35" />
+      <File FileName="mainMasterPage/Global.asax" Line="2" Column="1" />
+      <File FileName="mainMasterPage/Global.asax.cs" Line="28" Column="2" />
+      <File FileName="mainMasterPage/master.master" Line="111" Column="36" />
+      <File FileName="mainMasterPage/tofes.aspx" Line="110" Column="1" />
+      <File FileName="mainMasterPage/tofes.aspx.cs" Line="51" Column="69" />
+      <File FileName="mainMasterPage/tofes.aspx.designer.cs" Line="21" Column="1" />
+      <File FileName="../../../../../../../../private/var/folders/ff/l6q023f94h35dc2rnv_kmjq40000gn/T/rexton4wd_MB-temp-aspnet-0/be495ed5/App_Web_b1e9ygc7_2.cs" Line="231" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.mainMasterPage.Tests FirstBuild="True" />
